@@ -37,18 +37,9 @@ usage :
 
 >> python3 randomer.py   <file_you_want_to_generate>    <file_size>
 
-
-as an example you want to make a fake shrek movie to make little
-kids mad , type:
-
-
->> python3 randomer.py shrek.mp4 1000000
-
-
 (you need to type the size as byte but you can make it kb,mb or gb by editing the code)
 
-and you now you have a fake shrek movie Xd
-thats it you can make everyfile you want like this
+thats it , you can make everyfile you want like this
 
 \033[31m!!! please don't use this python project for bad purposes I am not responsible for what you done with this code !!!\033[0m
 
