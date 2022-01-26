@@ -1,5 +1,5 @@
 
-<img src = 'https://raw.githubusercontent.com/Aydeniztr/randomer.py/main/images/F8FDA3AD-A0D1-45F5-96E2-2B2EB4609A24.jpeg'>
+<img src = 'https://github.com/Aydeniztr/randomer.py/blob/main/04470400-1475-42AB-A528-8A07ED51F533.png?raw=true'>
 
 ## description
 ```
