@@ -32,5 +32,5 @@ usage :
 ```
 
 
-!!! please don't use this python project for bad purposes I am not responsible for what you done with this code !!!
+!!! please don't use this python project for bad purposes , I am not responsible for what you done with this code !!!
 
