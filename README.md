@@ -25,8 +25,10 @@ a big mp4 file to test your code or you want to make some
 fake files and making honeypots for security on your server
 or pc 
 
+```
 usage :
 >> python3 randomer.py   <file_you_want_to_generate>    <file_size>
+```
 
 as an example you want to make a fake shrek movie to make little
 kids mad , type:
