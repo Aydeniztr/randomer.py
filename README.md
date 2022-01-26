@@ -33,9 +33,11 @@ usage :
 
 as an example you want to make a fake shrek movie to make little
 kids mad , type:
+```
 >> python3 randomer.py shrek.mp4 1000000
 
 (you need to type the size as byte but you can make it kb,mb or gb by editing the code)
+```
 
 and you now you have a fake shrek movie Xd
 
