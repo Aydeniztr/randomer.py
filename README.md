@@ -39,5 +39,5 @@ and you now you have a fake shrek movie Xd
 thats it you can make everyfile you want like this
 
 ```sh
-\033[31m!!! please don't use this python project for bad purposes I am not responsible for what you done with this code !!!\033[0m
+!!! please dont use this python project for bad purposes I am not responsible for what you done with this code !!!
 ```
