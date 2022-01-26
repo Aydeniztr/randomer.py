@@ -31,6 +31,6 @@ usage :
 >> python3 randomer.py <file_you_want_to_generate> <file_size>
 ```
 
-```
-!!! |please don't use this python project for bad purposes I am not responsible for what you done with this code| !!!
-```
+
+!!! please don't use this python project for bad purposes I am not responsible for what you done with this code !!!
+
