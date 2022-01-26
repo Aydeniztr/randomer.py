@@ -27,6 +27,7 @@ or pc
 
 ```
 usage :
+
 >> python3 randomer.py   <file_you_want_to_generate>    <file_size>
 ```
 
