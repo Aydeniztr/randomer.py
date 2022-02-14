@@ -78,7 +78,7 @@ else:
 
 		chars = ''.join([random.choice(string.ascii_letters) for i in range(n)]) 
 
-		with open(filename, 'w') as f:
+		with open(filename, 'w',1) as f:
 			f.write(chars)
 		pass
 	print(banner)
