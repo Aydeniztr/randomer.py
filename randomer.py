@@ -1,9 +1,9 @@
-import random
-import string
-import sys
-import os
+from random import choice
+from string import ascii_letters
+from sys import argv
+from os import system,name
 
-os.system('cls' if os.name == 'nt' else 'clear')
+system('cls' if name == 'nt' else 'clear')
 
 banner = '''
 \033[31m
@@ -45,7 +45,7 @@ thats it , you can make everyfile you want like this
 
 '''
 
-if len(sys.argv) <= 1:
+if len(argv) <= 1:
 
 	print(banner + about)
 
@@ -76,7 +76,7 @@ else:
 		
 		n = size #as byte
 
-		chars = ''.join([random.choice(string.ascii_letters) for i in range(n)]) 
+		chars = ''.join([choice(ascii_letters) for i in range(n)]) 
 
 		with open(filename, 'w',1) as f:
 			f.write(chars)
@@ -84,9 +84,9 @@ else:
 	print(banner)
 	print('generating...\n')
 
-	filename = sys.argv[1]
+	filename = argv[1]
 
-	size = int(sys.argv[2])
+	size = int(argv[2])
 
 	toolbar_width = 40
 
@@ -107,6 +107,6 @@ else:
 		
 		
 	print('\n'+'\n'+'done!!!'+'\n')
-	os.system('stat '+filename)
+	system('Get-Item ' + getcwd + filename if os.name == 'nt' else 'stat '+filename)
 	print('\n')
 	exit()
